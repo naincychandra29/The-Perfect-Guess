@@ -24,3 +24,4 @@ I made this project while practicing Python basics like loops, conditions, user 
 - Taking user input in Python
 - Using the random module
 - Building a simple console-based game
+# Naincy Chandra
